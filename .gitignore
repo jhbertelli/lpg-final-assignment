@@ -1,0 +1,6 @@
+.vscode
+*.exe
+output
+bin
+# temporary, going to use samples later on
+*.bin
